@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: fontend
+  name: frontend
   labels:
     project: roboshop
     component: frontend
