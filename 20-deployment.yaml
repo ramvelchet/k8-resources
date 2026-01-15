@@ -37,7 +37,7 @@ spec:
   ports:
     - protocol: TCP
       port: 80 # service port
-      targetPort: 80 # container port
+      targetPort: 22 # container port
 ---
 # apiVersion: v1
 # kind: Service
